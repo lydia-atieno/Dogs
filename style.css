@@ -191,11 +191,12 @@ html{
     height: 8000vh;
     background-color: ;
     padding-right: ;
+     margin-left: 50px;
     
 }
 #main .main{
     height: 1000vh;
-    margin-left: 200px;
+   
     
 }
 #main li{
