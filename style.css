@@ -204,7 +204,7 @@ html{
     max-width: 280px;
     align-items: center;
     justify-content: center;
-    margin-left: 50px;
+    margin-left: 40px;
     font-size: 0.9rem;
     
 }
@@ -222,7 +222,7 @@ html{
 }
 #main p{
     max-width: 280px;
-    margin-left: 60px;
+    margin-left: 50px;
     font-size: 0.9rem;
 }
 #main h1{
