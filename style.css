@@ -204,7 +204,7 @@ html{
     max-width: 280px;
     align-items: center;
     justify-content: center;
-    margin-left: 80px;
+    margin-left: 50px;
     font-size: 0.9rem;
     
 }
@@ -215,7 +215,7 @@ html{
 
 }
 #main h2{
-    margin-left: 80px;
+    margin-left: 50px;
 }
 #main img{
     margin-left: 80px;
